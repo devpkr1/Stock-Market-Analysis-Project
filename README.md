@@ -37,7 +37,7 @@ The dataset, "synthetic_stock_data.csv," spans 138 years and includes metrics su
 ## Dashboards
 
 ### Power BI Dashboard
-![Power BI Dashboard](https://github.com/devpkr1/Stock-Market-Analysis-Project/blob/main/Screenshot%202024-08-03%20114535.png)
+**Interactive Report:-** [Link](https://mavenanalytics.io/project/28657)
 
 ### Tableau Dashboard
 [View Tableau Dashboard](https://public.tableau.com/views/StockAnalysisusingTableau/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
